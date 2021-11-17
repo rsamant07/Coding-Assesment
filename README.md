@@ -1,4 +1,4 @@
-# Programming Exercise using PySpark
+# Programming Exercise 
 
 ## Background:
 This Repository is for code assesment based on the instructions given in **excerise.md**
