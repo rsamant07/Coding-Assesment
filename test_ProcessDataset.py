@@ -35,7 +35,7 @@ def test_renameColumns():
 
 
 def test_ConfigurationFileExists():
-    assert os.path.exists("conf/config.init") == True,'Configuration File Missing'
+    assert os.path.exists("conf/config.ini") == True,'Configuration File Missing'
 
 
 
