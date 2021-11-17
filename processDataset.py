@@ -8,6 +8,16 @@ from lib.logger import get_logger,logLevelDict
 Logger = get_logger('Logging')
 
 def processCustomerInfo(spark: SparkSession,args) -> DataFrame:
+    """
+        This function reads the csv files for the given datsets removes the PII . It handles
+        the transformation logic provided for
+        Args:
+            Spark : Spark Session for the  application
+            args  : Variable with all Parameters passed to program
+        Returns:
+            Datafram: Procssed dataframe with the  marketing required information
+    """
+
 
     ## Load Dataset for customer Information
     dataset1DDL = StructType([
