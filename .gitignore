@@ -1,4 +1,5 @@
 *.pyc
 logs/*log
 .idea
-client_data/*
+.DS_Store
+.pytest_cache/*
