@@ -3,6 +3,8 @@
 ## Background:
 This Repository is for code assesment based on the instructions given in **excerise.md**
 
+[![Build Status](https://dev.azure.com/databricksdevops/CodingAssesment/_apis/build/status/rsamant07.Coding-Assesment?branchName=azure-pipelines)](https://dev.azure.com/databricksdevops/CodingAssesment/_build/latest?definitionId=4&branchName=azure-pipelines)
+
 ## Clone repository and install dependencies:
 
 Next, clone this repository into your local machine using:
